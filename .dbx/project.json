@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "default": {
+            "profile": "DEFAULT",
+            "workspace_dir": "/Shared/dbx/mlflow_cicd_ankur",
+            "artifact_location": "dbfs:/Shared/dbx/projects/mlflow_cicd_ankur"
+        }
+    }
+}
